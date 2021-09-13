@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/Junior-Hecht">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junior-Hecht&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Hecht&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junior-Hecht&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Hecht&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   <div style="display: inline_block"><br>
     <img  align="center" alt="junior-javascript" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -21,10 +21,12 @@
   
   ##
   
-  <a href="https://api.whatsapp.com/send?phone=5548988232173"><img width="80" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="mailto:juniorhechtjr@gmail.com"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- 
- ![Snake animation]
- (https://github.com/Junior-Hecht/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <a href="https://api.whatsapp.com/send?phone=5548988232173"target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:juniorhechtjr@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.gg/svYAe6mW"target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 	
+  ![Snake animation](https://github.com/Junior-Hecht/Junior-Hecht/blob/output/github-contribution-grid-snake.svg)
+</div>
+
  

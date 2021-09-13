@@ -25,6 +25,6 @@
   <a href="mailto:juniorhechtjr@gmail.com"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
  ![Snake animation]
- (https://github.com/rafaballerini/Junior-Hecht/blob/output/github-contribution-grid-snake.svg)
+ (https://github.com/Junior-Hecht/blob/output/github-contribution-grid-snake.svg)
 	
  

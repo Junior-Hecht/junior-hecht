@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Junior Hecht o/
 - 🔭 Hoje trabalho com front-end e assuntos relacionados a tecnologia
 - 🌱 Estudando Web full-stack
-- 👯 Gostaria de colaborar em projetos que façam diferença positiva na vida das pessoas
+- 👯 Objetivo de colaborar em projetos que façam diferença positiva na vida das pessoas
 - ⚡ Co-founder em comunidade MarTech
 
  <div>

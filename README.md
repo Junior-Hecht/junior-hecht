@@ -4,10 +4,10 @@
 - 👯 Objetivo de colaborar em projetos que façam diferença positiva na vida das pessoas
 - ⚡ Co-founder em comunidade MarTech
 
-<br>
+<h2>
 <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>
-**Estatisticas do GitHub**
-<br>
+Estatisticas do GitHub
+</h2>	
 
  <div>
   <a href="https://github.com/Junior-Hecht">

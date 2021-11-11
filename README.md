@@ -1,4 +1,4 @@
-## Olá! Eu sou o Werner Hecht Júnior, vamos codar?
+## Olá! Eu sou Werner Hecht Júnior, vamos codar?
 - 🔭 Hoje trabalho com front-end e assuntos relacionados a tecnologia
 - 🌱 Estudando Web full-stack
 - 👯 Objetivo de colaborar em projetos que façam diferença positiva na vida das pessoas

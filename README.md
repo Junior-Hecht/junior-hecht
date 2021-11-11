@@ -1,4 +1,4 @@
-## Olá! Eu sou o Junior Hecht o/
+## Olá! Eu sou o Junior Hecht
 - 🔭 Hoje trabalho com front-end e assuntos relacionados a tecnologia
 - 🌱 Estudando Web full-stack
 - 👯 Objetivo de colaborar em projetos que façam diferença positiva na vida das pessoas
